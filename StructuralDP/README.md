@@ -1,5 +1,5 @@
 # Topic: *Structural Design Patterns*
-### Author: *Drumea Vasile*
+### Author: *Chetrusca Dumitru*
 ------
 ## Objectives :
 __1. Study the Structural Design Patterns__
