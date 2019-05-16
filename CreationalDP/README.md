@@ -1,5 +1,5 @@
 # Topic: *Creational Design Patterns*
-### Author: *Drumea Vasile*
+### Author: *Chetrusca Dumitru*
 ------
 ## Objectives :
 __1. Study the Creational Design Patterns__
